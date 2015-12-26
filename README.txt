@@ -1,0 +1,1 @@
+A simple C program that makes a copy of a file. Asks the user for the input and output names, however there is no error checking.
